@@ -1,9 +1,9 @@
 function confirmId() {
-    alert("Удостоверение подтверждено!");
+    alert("647jsb62bpw ");
 }
 
 function showId() {
-    alert("Удостоверение предъявлено сотруднику");
+    alert("GGF-VSJZJSVDVXJSBSVZKOSVSCDHEF");
 }
 
 // Дополнительные функции по желанию:
